@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "googleapis": "^39.2.0"
+  }
+}

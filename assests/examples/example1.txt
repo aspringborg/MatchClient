@@ -1,0 +1,30 @@
+Hej 
+Her er dagens opgaver:
+
+#Assignment 1#
+#Problem 1#
+1) Reducer udtrykket lkdsjfld
+
+#Answer (Expression)#: 
+
+#Problem 2#
+2) Udregn følgende:
+33 + 44,45 = 
+
+#Answer (Number:,)#:
+
+#Problem 3#
+3) Vælg én af følgende:
+
+#Answer (Options)#:
+#Option 1#:
+Værdi 1
+#Option 2#:
+Værdi 2
+#Option 3#:
+Værdi 3
+
+#Problem 4#
+3) Antag et svar som tekst
+
+#Answer (text)#:

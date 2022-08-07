@@ -1,0 +1,51 @@
+{
+  "problemSets": [
+    {
+      "title": "test 1",
+      "themes": [],
+      "problems": [
+        {
+          "title": "p1",
+          "description": "2+3",
+          "answer": "5"
+        }
+      ],
+      "isCreatingProblem": false,
+      "id": 1
+    },
+    {
+      "title": "test 2",
+      "themes": [],
+      "problems": [
+        {
+          "title": "Opgave 2",
+          "description": "1+3",
+          "answer": "4"
+        }
+      ],
+      "isCreatingProblem": false,
+      "id": 2
+    }
+  ],
+  "classes": [
+    {
+      "name": "Hold 1",
+      "studentMemberships": [
+        {
+          "email": "elev1@test.dk",
+          "state": "suggested"
+        },
+        {
+          "email": "elev2@test.dk",
+          "state": "suggested"
+        },
+        {
+          "email": "elev3@test.dk",
+          "state": "suggested"
+        }
+      ],
+      "clientId": "a216b623-638e-6711-6398-eccf157df419",
+      "id": 1
+    }
+  ]
+}
